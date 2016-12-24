@@ -1,0 +1,27 @@
+{
+  "keywords": [
+    "react-native",
+    "chooser",
+    "select",
+    "picker"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "jigarmistry",
+      "email": "jigarmistry24@gmail.com"
+    }
+  ],
+  "name": "react-native-chooser",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jigarmistry/react-native-chooser.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
